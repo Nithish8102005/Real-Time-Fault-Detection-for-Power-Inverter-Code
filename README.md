@@ -2,7 +2,6 @@
 
 #define DHTPIN 0
 #include "ESP8266WiFi.h"
-
 const char* ssid = "iot" ;
 const char* password = "123456789";
 
