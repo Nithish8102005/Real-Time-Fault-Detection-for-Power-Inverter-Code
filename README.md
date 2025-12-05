@@ -1,1 +1,1 @@
-# Real-Time-Fault-Detection-for-Power-Inverter-Code
+# Real Time Fault Detection for-Power Inverter Code
